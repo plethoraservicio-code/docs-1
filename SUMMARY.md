@@ -1,10 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-  * [Welcome to Terminal5](readme/welcome-to-terminal5.md)
-  * [Terminal5 Concept Overview](readme/terminal5-concept-overview.md)
-  * [Terminal5 Whitepaper](readme/terminal5-whitepaper.md)
-* [Getting Started](getting-started/README.md)
+* [Getting Started](README.md)
   * [What You Need to Begin](getting-started/what-you-need-to-begin.md)
   * [How to Subscribe](getting-started/how-to-subscribe.md)
   * [Bot Activation Guide](getting-started/bot-activation-guide.md)

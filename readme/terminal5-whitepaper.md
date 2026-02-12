@@ -1,2 +1,0 @@
-# Terminal5 Whitepaper
-
