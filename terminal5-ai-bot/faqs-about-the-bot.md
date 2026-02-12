@@ -1,0 +1,2 @@
+# FAQs - About the Bot
+
