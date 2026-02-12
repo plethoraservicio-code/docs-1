@@ -6,7 +6,7 @@ description: Choose Your Path to Smarter Crypto Trading
 
 ***
 
-At Zionix Global, we offer flexible and value-packed subscription plans designed to fit every trader’s journey—from beginners to elite-level strategists. Each subscription unlocks full access to our automated AI trading ecosystem, education, signals, and NFT-powered bot licenses.
+At Terminal5, we offer flexible and value-packed subscription plans designed to fit every trader’s journey—from beginners to elite-level strategists. Each subscription unlocks full access to our automated AI trading ecosystem, education, signals, and NFT-powered bot licenses.
 
 ### MEMBERSHIP PLANS & PRICING
 

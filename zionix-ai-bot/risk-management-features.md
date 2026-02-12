@@ -2,7 +2,7 @@
 
 ***
 
-Zionix’s AI Bots are equipped with robust risk management protocols to protect user capital:
+Terminal5’s AI Bots are equipped with robust risk management protocols to protect user capital:
 
 • Capital Lock Protocol: 180-day minimum capital lock to stabilize trading activity\
 • Dynamic Stop-Loss Systems: Protects against sharp downturns by auto-exiting trades\

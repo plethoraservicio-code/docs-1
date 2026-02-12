@@ -2,7 +2,7 @@
 
 ***
 
-Every Zionix Global license includes a complete ecosystem of tools and benefits—not just access to a trading bot.
+Every Terminal5 license includes a complete ecosystem of tools and benefits—not just access to a trading bot.
 
 Core Features Across All Plans:
 

@@ -44,6 +44,6 @@ Yes, users can activate multiple bots and earn simultaneously on all bots once t
 
 <summary>Are bots updated or improved over time?</summary>
 
-Absolutely. Zionix Global continuously evolves its AI models. Users in Advanced, Elite, and VIP tiers receive early access to new bot versions and exclusive strategies.
+Absolutely. Terminal5 continuously evolves its AI models. Users in Advanced, Elite, and VIP tiers receive early access to new bot versions and exclusive strategies.
 
 </details>

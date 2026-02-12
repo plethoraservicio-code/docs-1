@@ -32,6 +32,6 @@ Bookmark the calendar and never miss a chance to connect, learn, or lead.
 
 ### Conclusion: Community Is the Catalyst
 
-Zionix Global is more than a platform—it’s a movement. With 24/7 support, expert mentorship, regional engagement, and global collaboration, you’re backed by a network that grows as you grow.
+Terminal5 is more than a platform—it’s a movement. With 24/7 support, expert mentorship, regional engagement, and global collaboration, you’re backed by a network that grows as you grow.
 
 Join the community. Trade with support. Succeed together.

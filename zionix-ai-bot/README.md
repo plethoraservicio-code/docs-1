@@ -1,2 +1,2 @@
-# Zionix AI Bot
+# Terminal5 AI Bot
 

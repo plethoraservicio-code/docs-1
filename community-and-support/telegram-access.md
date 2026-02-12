@@ -8,9 +8,9 @@ description: Your Direct Line to the Network
 
 All active members gain immediate access to our official Telegram channels, where real-time updates and expert discussions unfold daily:
 
-• Zionix Global Official Channel: For news, announcements, updates, and feature releases
+• Terminal5 Official Channel: For news, announcements, updates, and feature releases
 \
-• Zionix Community Chat: Open forum for trade discussions, questions, and strategy tips
+• Terminal5 Community Chat: Open forum for trade discussions, questions, and strategy tips
 \
 • Support Bot / Ticketing Access: For account help and troubleshooting
 

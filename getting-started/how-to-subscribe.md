@@ -21,7 +21,7 @@ Tip: Higher tiers receive more trading signals, higher daily returns, advanced b
 {% step %}
 Purchase your license
 
-Pay the license fee using available funds in your zionix wallet balance
+Pay the license fee using available funds in your Terminal5 wallet balance
 
 ***
 {% endstep %}

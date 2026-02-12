@@ -1,4 +1,4 @@
-# Zionix Global Whitepaper
+# Terminal5 Whitepaper
 
 Empowering the Future of Crypto Trading Through AI, Education & Community
 
@@ -10,9 +10,9 @@ Empowering the Future of Crypto Trading Through AI, Education & Community
 
 ***
 
-Zionix Global is a cryptocurrency AI bot licensing platform designed to empower individuals with intelligent trading tools, educational resources, and market insights. After years of private development and operation, Zionix Global is going public with a mission to democratize access to powerful automated trading solutions and build a global wealth-driven ecosystem.&#x20;
+Terminal5 is a cryptocurrency AI bot licensing platform designed to empower individuals with intelligent trading tools, educational resources, and market insights. After years of private development and operation, Terminal5 is going public with a mission to democratize access to powerful automated trading solutions and build a global wealth-driven ecosystem.&#x20;
 
-The platform operates on a yearly subscription model, providing users with access to a high-performance AI trading bot, structured crypto education, live trading signals, and a supportive community. Zionix Global is committed to helping users unlock consistent revenue generation while developing the knowledge and skills necessary to thrive in the evolving digital asset space.
+The platform operates on a yearly subscription model, providing users with access to a high-performance AI trading bot, structured crypto education, live trading signals, and a supportive community. Terminal5 is committed to helping users unlock consistent revenue generation while developing the knowledge and skills necessary to thrive in the evolving digital asset space.
 {% endstep %}
 
 {% step %}
@@ -20,11 +20,11 @@ The platform operates on a yearly subscription model, providing users with acces
 
 ***
 
-Zionix Global was initially conceived as a private toolset to address the increasing complexity of cryptocurrency markets. Over the years, the platform served a small community of users who benefited from automated strategies that delivered steady returns in a volatile environment.&#x20;
+Terminal5 was initially conceived as a private toolset to address the increasing complexity of cryptocurrency markets. Over the years, the platform served a small community of users who benefited from automated strategies that delivered steady returns in a volatile environment.&#x20;
 
-During this period, the Zionix AI bot was stress-tested across various market cycles and adapted to the shifting dynamics of the industry. As the technology matured and results became consistent, the team recognized a broader opportunity: to bring the same tools and strategies to the public and cultivate a global community of financially empowered individuals.&#x20;
+During this period, the Terminal5 AI bot was stress-tested across various market cycles and adapted to the shifting dynamics of the industry. As the technology matured and results became consistent, the team recognized a broader opportunity: to bring the same tools and strategies to the public and cultivate a global community of financially empowered individuals.&#x20;
 
-Zionix Global is now transitioning from its private legacy into a public powerhouse—offering scalable tools, resources, and community infrastructure to create lasting impact.
+Terminal5 is now transitioning from its private legacy into a public powerhouse—offering scalable tools, resources, and community infrastructure to create lasting impact.
 {% endstep %}
 
 {% step %}
@@ -42,7 +42,7 @@ While cryptocurrency offers unprecedented opportunities for wealth creation, man
 
 • Information overload: The crypto space is flooded with noise, making it hard to identify credible strategies and insights.&#x20;
 
-Zionix Global bridges this gap by providing reliable automation, high-quality education, and curated market insights—all within a single ecosystem. This creates a powerful advantage for users looking to participate in crypto profitably and sustainably.
+Terminal5 bridges this gap by providing reliable automation, high-quality education, and curated market insights—all within a single ecosystem. This creates a powerful advantage for users looking to participate in crypto profitably and sustainably.
 {% endstep %}
 
 {% step %}
@@ -50,7 +50,7 @@ Zionix Global bridges this gap by providing reliable automation, high-quality ed
 
 ***
 
-4.1 **Zionix AI Trading Bot**&#x20;
+4.1 **Terminal5 AI Trading Bot**&#x20;
 
 • A proprietary AI-powered bot designed for multi-pair cryptocurrency trading.&#x20;
 
@@ -76,13 +76,13 @@ Zionix Global bridges this gap by providing reliable automation, high-quality ed
 
 • Includes trade entry points, exit targets, stop losses, and rationale.&#x20;
 
-• Supports users who wish to trade outside the platform while leveraging Zionix's expertise.
+• Supports users who wish to trade outside the platform while leveraging Terminal5's expertise.
 {% endstep %}
 
 {% step %}
 **Subscription Model & Ecosystem Design**
 
-Zionix Global operates on a yearly subscription license model. This model allows users to access the full suite of features while ensuring long-term commitment to the platform’s vision and community.&#x20;
+Terminal5 operates on a yearly subscription license model. This model allows users to access the full suite of features while ensuring long-term commitment to the platform’s vision and community.&#x20;
 
 ***
 
@@ -108,7 +108,7 @@ _**Each subscription includes:**_&#x20;
 {% step %}
 **Community Vision & Value Proposition**
 
-Zionix Global is built on a fundamental belief: wealth creation should be accessible, sustainable, and supported by community.&#x20;
+Terminal5 is built on a fundamental belief: wealth creation should be accessible, sustainable, and supported by community.&#x20;
 
 ***
 
@@ -120,7 +120,7 @@ The platform envisions a future where traders don’t work in isolation but thri
 
 • Rewards long-term engagement and success.&#x20;
 
-By nurturing a culture of growth and collective intelligence, Zionix Global is positioning itself as more than a tool—it is a movement.
+By nurturing a culture of growth and collective intelligence, Terminal5 is positioning itself as more than a tool—it is a movement.
 {% endstep %}
 
 {% step %}
@@ -128,7 +128,7 @@ By nurturing a culture of growth and collective intelligence, Zionix Global is p
 
 ***
 
-Zionix Global’s AI bot operates on a high-performance, cloud-based infrastructure that ensures reliability and low-latency execution. While proprietary specifics are confidential, the core technologies include:&#x20;
+Terminal5’s AI bot operates on a high-performance, cloud-based infrastructure that ensures reliability and low-latency execution. While proprietary specifics are confidential, the core technologies include:&#x20;
 
 • Machine learning models for pattern recognition and predictive analytics.&#x20;
 
@@ -144,7 +144,7 @@ As the platform evolves, it plans to introduce modular trading strategies (scalp
 {% step %}
 **Future Expansion Plans**
 
-Future Expansion Plans Zionix Capital’s growth strategy includes the following key phases:&#x20;
+Future Expansion Plans Terminal5 Capital’s growth strategy includes the following key phases:&#x20;
 
 ***
 
@@ -170,7 +170,7 @@ Future Expansion Plans Zionix Capital’s growth strategy includes the following
 
 • Introduce token-based subscription payments and loyalty rewards.&#x20;
 
-• Lay groundwork for a decentralized governance model (Zionix DAO).&#x20;
+• Lay groundwork for a decentralized governance model (Terminal5 DAO).&#x20;
 
 **Phase 4: Global Expansion**&#x20;
 
@@ -184,9 +184,9 @@ Future Expansion Plans Zionix Capital’s growth strategy includes the following
 
 ***
 
-Zionix Global stands at the intersection of technology, education, and financial empowerment. In a landscape crowded with speculation and noise, it offers a clear path: consistent returns through intelligent tools, backed by knowledge and community support.&#x20;
+Terminal5 stands at the intersection of technology, education, and financial empowerment. In a landscape crowded with speculation and noise, it offers a clear path: consistent returns through intelligent tools, backed by knowledge and community support.&#x20;
 
-As the platform enters its next chapter, Zionix Global invites crypto enthusiasts, traders, and investors to join its mission—to trade smarter, grow together, and create a better financial future.
+As the platform enters its next chapter, Terminal5 invites crypto enthusiasts, traders, and investors to join its mission—to trade smarter, grow together, and create a better financial future.
 
 ***
 {% endstep %}

@@ -6,7 +6,7 @@ description: The Future in Motion
 
 ***
 
-Here’s what’s on the horizon for Zionix Global. Features are released in structured phases, ensuring quality, transparency, and scalability.
+Here’s what’s on the horizon for Terminal5. Features are released in structured phases, ensuring quality, transparency, and scalability.
 
 {% stepper %}
 {% step %}
@@ -48,7 +48,7 @@ Official Launch, First 100,000 Users, Global Expansion (USA, Asia,Africa, Europe
 
 • AI Evolution (Quantum Computing Integration), Stock & Forex Expansion, IPO Consideration
 \
-• Rollout of the Zionix Global Mobile App (iOS & Android)
+• Rollout of the Terminal5 Mobile App (iOS & Android)
 \
 • AI Strategy Marketplace for third-party bot developers
 \

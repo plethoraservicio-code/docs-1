@@ -2,7 +2,7 @@
 
 ***
 
-The Zionix Education Portal is a comprehensive learning environment designed for all skill levels. Whether you’re new to crypto or an experienced trader looking to sharpen your edge, our curriculum is built to evolve with your journey.
+The Terminal5 Education Portal is a comprehensive learning environment designed for all skill levels. Whether you’re new to crypto or an experienced trader looking to sharpen your edge, our curriculum is built to evolve with your journey.
 
 Features include:
 \

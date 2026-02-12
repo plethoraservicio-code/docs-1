@@ -26,6 +26,6 @@ Use it as your quick reference as you learn and trade.
 Final Word: Education Is Ownership
 {% endhint %}
 
-At Zionix Global, education isn’t just a bonus — it’s a pillar of our ecosystem. We don’t just want you to profit; we want you to understand your tools, manage your risk, and own your future as a crypto trader.
+At Terminal5, education isn’t just a bonus — it’s a pillar of our ecosystem. We don’t just want you to profit; we want you to understand your tools, manage your risk, and own your future as a crypto trader.
 
 Start learning today. Evolve from user to strategist. From follower to leader.

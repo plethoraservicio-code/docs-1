@@ -2,7 +2,7 @@
 
 ***
 
-Zionix AI Bots are built on a diverse set of sophisticated trading strategies, with each bot tier customized for specific user levels:
+Terminal5 AI Bots are built on a diverse set of sophisticated trading strategies, with each bot tier customized for specific user levels:
 
 {% stepper %}
 {% step %}

@@ -26,7 +26,7 @@ These insights help you:
 
 ### Conclusion : Trade With Precision, Not Emotion
 
-Zionix Global’s trading signals combine the speed of AI with the strategic oversight of seasoned analysts. Whether you’re fully automated or partially manual, our system ensures you’re never left trading blindly.
+Terminal5’s trading signals combine the speed of AI with the strategic oversight of seasoned analysts. Whether you’re fully automated or partially manual, our system ensures you’re never left trading blindly.
 
 Get the edge. Know the move. Make it count.
 

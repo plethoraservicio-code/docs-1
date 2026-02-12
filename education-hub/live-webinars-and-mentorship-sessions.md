@@ -2,7 +2,7 @@
 
 ***
 
-Every member gets access to live weekly webinars, hosted by professional traders and Zionix bot architects. These sessions include:
+Every member gets access to live weekly webinars, hosted by professional traders and Terminal5 bot architects. These sessions include:
 
 • Live market analysis
 \

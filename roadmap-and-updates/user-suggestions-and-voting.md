@@ -1,5 +1,5 @@
 ---
-description: You Help Shape Zionix
+description: You Help Shape Terminal5
 ---
 
 # User Suggestions & Voting
@@ -38,6 +38,6 @@ VIP users receive exclusive access to private roadmap calls and beta testing ses
 
 ### Conclusion: Roadmap with Purpose, Progress with People
 
-Zionix Global is on a mission to redefine what’s possible in decentralized, AI-driven crypto trading—and we’re building it with your voice, your needs, and your future in mind.
+Terminal5 is on a mission to redefine what’s possible in decentralized, AI-driven crypto trading—and we’re building it with your voice, your needs, and your future in mind.
 
 Stay connected. Stay empowered. The future is coming—fast.

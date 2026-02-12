@@ -1,12 +1,12 @@
 ---
-description: Zionix Global CRYPTO BOT DEVELOPMENT STRATEGY
+description: Terminal5 CRYPTO BOT DEVELOPMENT STRATEGY
 ---
 
 # Bot Development Strategy
 
 ***
 
-Zionix Globall has engineered a powerful suite of AI-driven trading bots designed to autonomously trade cryptocurrencies, crypto pairs, and arbitrage opportunities across both centralized (CEX) and decentralized (DEX) exchanges. The goal is to deliver seamless, fast, and intelligent trading execution that maximizes profit while minimizing user involvement and emotional bias.\
+Terminal5 Globall has engineered a powerful suite of AI-driven trading bots designed to autonomously trade cryptocurrencies, crypto pairs, and arbitrage opportunities across both centralized (CEX) and decentralized (DEX) exchanges. The goal is to deliver seamless, fast, and intelligent trading execution that maximizes profit while minimizing user involvement and emotional bias.\
 
 
 1. **Multi-Layered Connectivity Across Exchanges**\
@@ -15,7 +15,7 @@ Zionix Globall has engineered a powerful suite of AI-driven trading bots designe
 
 2. **Triangular & Cross-Pair Arbitrage Engine**\
    \
-   Zionix bots are engineered to perform both triangular arbitrage (within a single exchange) and cross-exchange arbitrage (across different platforms). These operations rely on lightning-fast calculations and intelligent routing of funds to exploit market inefficiencies—executing trades in milliseconds to capture profits before market conditions change.\
+   Terminal5 bots are engineered to perform both triangular arbitrage (within a single exchange) and cross-exchange arbitrage (across different platforms). These operations rely on lightning-fast calculations and intelligent routing of funds to exploit market inefficiencies—executing trades in milliseconds to capture profits before market conditions change.\
 
 3. **Advanced Trading Algorithms**\
    \
@@ -41,7 +41,7 @@ Zionix Globall has engineered a powerful suite of AI-driven trading bots designe
 
 ***
 
-At Zionix Global, safety and sustainability are at the core of every trade. Here’s how our bot ecosystem manages risk smartly and efficiently:
+At Terminal5, safety and sustainability are at the core of every trade. Here’s how our bot ecosystem manages risk smartly and efficiently:
 
 1. **Dynamic Capital Allocation**\
    \

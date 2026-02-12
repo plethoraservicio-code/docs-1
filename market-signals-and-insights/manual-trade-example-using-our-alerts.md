@@ -2,7 +2,7 @@
 
 ***
 
-Let’s walk through a sample manual trade using a Zionix signal:
+Let’s walk through a sample manual trade using a Terminal5 signal:
 
 {% stepper %}
 {% step %}

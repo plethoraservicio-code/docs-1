@@ -4,9 +4,9 @@
 
 {% stepper %}
 {% step %}
-Users need to Understand What Zionix Global Offers
+Users need to Understand What Terminal5 Offers
 
-Before diving in, here’s what you gain with a Zionix Global license:
+Before diving in, here’s what you gain with a Terminal5 license:
 
 • Access to powerful AI trading bots\
 • Ownership via NFT-based licenses\

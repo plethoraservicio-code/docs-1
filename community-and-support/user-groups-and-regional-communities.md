@@ -2,7 +2,7 @@
 
 ***
 
-To serve our diverse, global user base, Zionix Global offers region-specific communities and language-based groups, including:
+To serve our diverse, global user base, Terminal5 offers region-specific communities and language-based groups, including:
 
 • Africa | Europe | Asia | Middle East | North & South America
 

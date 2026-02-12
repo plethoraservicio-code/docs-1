@@ -2,7 +2,7 @@
 
 ***
 
-Every Zionix Global signal is crafted using a blend of AI-generated insights and human analyst oversight. Each alert includes:
+Every Terminal5 signal is crafted using a blend of AI-generated insights and human analyst oversight. Each alert includes:
 
 • Trading Pair: e.g., BTC/USDT
 \

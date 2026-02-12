@@ -4,7 +4,7 @@
 
 ***
 
-Zionix Global subscriptions are valid for 12 months from the date of activation.
+Terminal5 subscriptions are valid for 12 months from the date of activation.
 
 {% stepper %}
 {% step %}

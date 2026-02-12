@@ -20,7 +20,7 @@ What You’ll Learn:
 \
 • Setting up and securing your wallet
 \
-• How to activate and use your Zionix AI bot
+• How to activate and use your Terminal5 AI bot
 \
 • Introduction to stablecoins, volatility, and trading pairs
 

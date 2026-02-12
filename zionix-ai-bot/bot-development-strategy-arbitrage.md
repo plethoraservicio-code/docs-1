@@ -1,16 +1,16 @@
 ---
-description: ZIONIX GLOBAL CRYPTO ARBITRAGE BOT DEVELOPMENT STRATEGY
+description: Terminal5 CRYPTO ARBITRAGE BOT DEVELOPMENT STRATEGY
 ---
 
 # Bot Development Strategy(Arbitrage)
 
 ***
 
-Zionix Global’s Arbitrage Bot is uniquely engineered for precision-driven, profit-focused trading across crypto markets. This bot is not designed to chase every price fluctuation—it’s built to execute only high-probability, high-confidence arbitrage trades that meet strict predefined return criteria, ensuring consistent and sustainable performance.
+Terminal5’s Arbitrage Bot is uniquely engineered for precision-driven, profit-focused trading across crypto markets. This bot is not designed to chase every price fluctuation—it’s built to execute only high-probability, high-confidence arbitrage trades that meet strict predefined return criteria, ensuring consistent and sustainable performance.
 
 1. **Predefined Profit Threshold Execution (Smart Trade Filtering)**\
    \
-   The core logic of the Zionix Arbitrage Bot centers around a strict rule: no trade is executed unless it meets the expected profit range. For example:\
+   The core logic of the Terminal5 Arbitrage Bot centers around a strict rule: no trade is executed unless it meets the expected profit range. For example:\
    \
    • If the expected return per arbitrage opportunity does not fall between 0.9% to 1.8%, the bot automatically skips that trade.
    \
@@ -42,7 +42,7 @@ Zionix Global’s Arbitrage Bot is uniquely engineered for precision-driven, pro
    \
    • Preferred exchanges (based on fee or speed)\
    \
-   These configurations ensure that the bot functions within a high-performance envelope tailored to the risk appetite and yield expectations of Zionix users.\
+   These configurations ensure that the bot functions within a high-performance envelope tailored to the risk appetite and yield expectations of Terminal5 users.\
 
 4. **High-Precision Execution Protocol**\
    \
@@ -102,6 +102,6 @@ Zionix’s Arbitrage Bot incorporates advanced risk controls that ensure capital
    \
    • Stable asset pairs (minimizing depeg or devaluation risks)\
    \
-   This level of selective precision transforms the Zionix Arbitrage Bot into a smart, risk-aware system optimized for sustainable earnings.
+   This level of selective precision transforms the Terminal5 Arbitrage Bot into a smart, risk-aware system optimized for sustainable earnings.
 
 ***

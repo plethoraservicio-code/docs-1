@@ -4,7 +4,7 @@
 
 Choose a bot tier/pack . Each tier has a minimum required deposit, separate from the license fee:
 
-Make the capital deposit to your designated bot using available funds in your zionix wallet address
+Make the capital deposit to your designated bot using available funds in your Terminal5 wallet address
 
 **Activate Your Trading Bot**
 

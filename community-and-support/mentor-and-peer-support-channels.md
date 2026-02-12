@@ -2,7 +2,7 @@
 
 ***
 
-Learning is a journey—and you’re never alone. Zionix Global connects you with a wide support network:
+Learning is a journey—and you’re never alone. Terminal5 connects you with a wide support network:
 
 {% stepper %}
 {% step %}

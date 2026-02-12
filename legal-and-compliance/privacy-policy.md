@@ -2,17 +2,17 @@
 
 ***
 
-**Zionix Global Privacy Policy**
+**Terminal5 Privacy Policy**
 
 **Effective Date: \[20/5/2025]**
 \
-**Issued by: Zionix Global Team**
+**Issued by: Terminal5 Team**
 
 ***
 
 1. Introduction
 
-Zionix Global (“we”, “our”, “us”) is committed to safeguarding the privacy and personal data of our users (“you”, “your”). This Privacy Policy explains how we collect, use, store, and protect your information when you access or use our services, including:
+Terminal5 (“we”, “our”, “us”) is committed to safeguarding the privacy and personal data of our users (“you”, “your”). This Privacy Policy explains how we collect, use, store, and protect your information when you access or use our services, including:
 \
 • AI trading bots
 \
@@ -24,19 +24,19 @@ Zionix Global (“we”, “our”, “us”) is committed to safeguarding the p
 \
 • Community and customer support
 
-By accessing or using Zionix Global’s Services, you agree to the terms and practices described in this policy.
+By accessing or using Terminal5’s Services, you agree to the terms and practices described in this policy.
 
 
 
 2. Scope of This Policy
 
-This Privacy Policy applies to all Zionix Global services, platforms, mobile applications, social media channels, and third-party tools directly integrated into our system. It does not apply to third-party services or platforms not controlled by Zionix Global.
+This Privacy Policy applies to all Terminal5 services, platforms, mobile applications, social media channels, and third-party tools directly integrated into our system. It does not apply to third-party services or platforms not controlled by Terminal5.
 
 
 
 3. Information We Collect
 
-Zionix Global may collect the following categories of data:
+Terminal5 may collect the following categories of data:
 
 3.1 Personal Information
 \
@@ -126,7 +126,7 @@ Depending on your jurisdiction, we process your data under one or more of the fo
 
 6. Data Storage and Retention
 
-Zionix Global stores your data securely using encrypted servers and decentralized tools (where applicable). Data is retained:
+Terminal5 stores your data securely using encrypted servers and decentralized tools (where applicable). Data is retained:
 \
 • For as long as your account is active
 \
@@ -192,13 +192,13 @@ To exercise your rights, email us at \[Insert Contact Email].
 
 10. Data Transfers
 
-As a decentralized platform serving a global user base, data may be transferred or stored across multiple jurisdictions. Zionix Global ensures such transfers are conducted securely and in compliance with applicable privacy laws.
+As a decentralized platform serving a global user base, data may be transferred or stored across multiple jurisdictions. Terminal5 ensures such transfers are conducted securely and in compliance with applicable privacy laws.
 
 
 
 11. Children’s Privacy
 
-Zionix Global does not knowingly collect data from users under the age of 18. If we discover a user is underage, their account and associated data will be deleted immediately.
+Terminal5 does not knowingly collect data from users under the age of 18. If we discover a user is underage, their account and associated data will be deleted immediately.
 
 
 
@@ -228,7 +228,7 @@ In the event of a data breach, we will notify affected users within a reasonable
 
 14. Changes to This Policy
 
-Zionix Global may update this Privacy Policy periodically. Users will be notified of significant changes via:
+Terminal5 may update this Privacy Policy periodically. Users will be notified of significant changes via:
 \
 • Email (if provided)
 \
@@ -248,4 +248,4 @@ Email: \[Info@zionixglobal.com]
 \
 Website: \[www.zionixglobal.com]
 
-By using Zionix Global, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
+By using Terminal5, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.

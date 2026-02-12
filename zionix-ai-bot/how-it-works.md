@@ -2,7 +2,7 @@
 
 ***
 
-The Zionix AI Trading Bot operates 24/7, continuously analyzing market data, detecting profitable opportunities, and executing trades on your behalf. Here’s a breakdown of its core operational workflow:
+The Terminal5 AI Trading Bot operates 24/7, continuously analyzing market data, detecting profitable opportunities, and executing trades on your behalf. Here’s a breakdown of its core operational workflow:
 
 {% stepper %}
 {% step %}
